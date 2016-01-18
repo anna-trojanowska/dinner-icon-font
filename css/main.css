@@ -27,6 +27,8 @@ html {
     padding-bottom: 2em;
     border-radius: 10px;
     margin: 2em;
+    box-shadow: 1px 1px 1px 1px #888888;
+    max-width: 38em;
 }
 
 .title {
